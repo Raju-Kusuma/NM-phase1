@@ -1,2 +1,2 @@
-# NM-phase1
+# CADphase1
 Image Recognition with IBM cloud visual recognition
